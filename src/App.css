@@ -1,0 +1,38 @@
+.App {
+  text-align: center;
+  padding: 1em;
+}
+
+.bookHeader {
+  font-weight: bold;
+  margin-bottom: 1em;
+  padding: 0;
+  color: #000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1em;
+}
+
+.bookTitle {
+  font-size: 1.5em;
+  font-weight: bold;
+  padding: 0;
+  color: #000;
+}
+
+.bookListBox {
+  padding: 0;
+  margin: 0;
+  margin-bottom: 1em;
+}
+
+.bookItemCard {
+  padding: 16px;
+  margin: 0;
+  margin-bottom: 1em;
+  list-style: none;
+  border: 1px solid #000;
+  border-radius: 5px;
+  overflow: hidden;
+}
