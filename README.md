@@ -8,8 +8,6 @@ A full-stack web application built with Vite, React, TypeScript, and server-side
 - **Redux Toolkit with Thunk**: Manage complex application state with ease using Redux Toolkit, and handle asynchronous actions with Redux Thunk middleware.
 - **TypeScript**: A statically typed language for enhanced developer experience and fewer runtime errors.
 - **API Integration**: Fetch book data from an external API and display it in the application.
-- **Dynamic Routing**: Navigate through different pages seamlessly with React Router.
-- **Responsive Design**: Ensure a consistent user experience across various devices and screen sizes.
 
 ## Technologies Used
 
