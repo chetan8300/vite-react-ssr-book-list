@@ -23,15 +23,13 @@ A full-stack web application built with Vite, React, TypeScript, and server-side
 - [Redux Toolkit](https://redux-toolkit.js.org/): The official, opinionated, batteries-included toolset for efficient Redux development.
 - [Redux Thunk](https://github.com/reduxjs/redux-thunk): A Redux middleware for handling asynchronous actions.
 - [Express.js](https://expressjs.com/): A minimal and flexible Node.js web application framework used for SSR.
-- [Axios](https://axios-http.com/): A promise-based HTTP client for making HTTP requests.
-- [React Router](https://reactrouter.com/): Declarative routing for React applications.
 
 ## Getting Started
 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/vite-react-ssr-book-list.git
+   git clone https://github.com/chetan8300/vite-react-ssr-book-list.git
    ```
 
 2. Navigate to the project directory:
