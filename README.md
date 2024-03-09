@@ -1,7 +1,3 @@
-Here's a GitHub description for a Vite + React + TypeScript + SSR + Redux Toolkit + Thunk + API Call Book List Application:
-
----
-
 # Vite React SSR Book List App with Redux Toolkit
 
 A full-stack web application built with Vite, React, TypeScript, and server-side rendering (SSR) for a seamless user experience. This project utilizes Redux Toolkit along with Thunk middleware for state management, making API calls to fetch and display a list of books.
